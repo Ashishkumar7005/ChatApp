@@ -4,9 +4,9 @@
 
 
 body{
-  background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("/bgimg.png");
+  background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("/bg-img.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size:cover ;
   overflow: hidden;
   background-position: center;
 }
